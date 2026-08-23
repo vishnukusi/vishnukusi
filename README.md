@@ -6,12 +6,12 @@
 
 <div align="center">
 
-
+```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  SYSTEM STATUS: ● ONLINE                    UPTIME: 24/7/365      ║
 ║  NODE: vishnukusi                           PROTOCOL: SECURE      ║
 ╚══════════════════════════════════════════════════════════════════╝
-
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=VISHNU+KUSI;AI%2FML+ENGINEER+IN+THE+MAKING" alt="Typing SVG" />
 
