@@ -206,9 +206,16 @@ LANGUAGES ◆ LIBRARIES ◆ WEB DEVELOPMENT ◆ TOOLS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnukusi&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=00F0FF&icon_color=B026FF&text_color=C3C9E8&ring_color=00F0FF" />
+<img
+  height="165"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishnukusi&theme=tokyonight"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukusi&layout=compact&hide_border=true&bg_color=0A0E27&title_color=00F0FF&text_color=C3C9E8&langs_count=8" />
+<img
+  height="165"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vishnukusi&theme=tokyonight"
+/>
+
 
 
 
