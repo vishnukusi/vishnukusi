@@ -4,16 +4,13 @@
 
 <br/>
 
-```
-╭──────────────────────────────────────────────────────────────╮
-│  VISHNU.OS                                    STATUS: ●ONLINE │
-╰──────────────────────────────────────────────────────────────╯
-```
+
 
 </div>
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Vishnu Kusi - AI/ML Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=300&section=header&text=VISHNU%20KUSI&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20INTELLIGENT%20SYSTEMS%20%7C%20AUTONOMOUS%20TECHNOLOGY&descAlignY=60&descSize=18"  
+    width = "100%"/>
 </p>
 
 <h3 align="center">AI / ML ENGINEER IN THE MAKING</h3>
