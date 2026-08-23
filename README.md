@@ -1,12 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F0FF&center=false&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=INITIALIZING+INTELLIGENT+SYSTEMS...+%5BOK%5D;LOADING+AI+MODULES...+%5BOK%5D;CONNECTING+AUTONOMOUS+SYSTEMS...+%5BOK%5D;ANALYZING+BUILDER+PROFILE...+%5BOK%5D;ACCESS+GRANTED+%E2%97%89+LIVE" alt="Boot Sequence" />
-
-<br/>
-
-
-
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,30&height=300&section=header&text=VISHNU%20KUSI&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20INTELLIGENT%20SYSTEMS%20%7C%20AUTONOMOUS%20TECHNOLOGY&descAlignY=60&descSize=18"  
