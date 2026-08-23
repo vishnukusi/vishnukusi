@@ -31,7 +31,7 @@
 
 <img align="right" width="260" src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI+%2B+ROBOTICS&titleTextColor=22D3EE&badgeTextColor=E2E8F0&badgeBackgroundColor=0F172A&borderColor=1E1B4B&lineCount=1&line1=machine-learning%2Ccomputer-vision%2Crobotics%2Cautonomous-systems%2Cagentic-ai" alt="focus stack"/>
 
-yaml
+```yaml
 identity:
   name: Vishnu Kusi
   role: AI/ML Student · Intelligent Systems Builder · Robotics Explorer
@@ -49,7 +49,7 @@ current_domains:
   - Robotics
   - Computer Vision
   - Intelligent Systems
-
+```
 
 <br clear="right"/>
 
