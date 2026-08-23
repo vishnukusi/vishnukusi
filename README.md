@@ -1,190 +1,99 @@
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A0E27,50:0F172A,100:1E1B4B&height=3&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F0FF&center=false&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=INITIALIZING+INTELLIGENT+SYSTEMS...+%5BOK%5D;LOADING+AI+MODULES...+%5BOK%5D;CONNECTING+AUTONOMOUS+SYSTEMS...+%5BOK%5D;ANALYZING+BUILDER+PROFILE...+%5BOK%5D;ACCESS+GRANTED+%E2%97%89+LIVE" alt="Boot Sequence" />
 
-</div>
-
-<div align="center">
+<br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  SYSTEM STATUS: ● ONLINE                    UPTIME: 24/7/365      ║
-║  NODE: vishnukusi                           PROTOCOL: SECURE      ║
-╚══════════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────╮
+│  VISHNU.OS                                    STATUS: ●ONLINE │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=VISHNU+KUSI;AI%2FML+ENGINEER+IN+THE+MAKING" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%3E+Building+intelligent+systems...;%3E+Exploring+autonomous+technology...;%3E+Creating+AI-powered+solutions...;%3E+Turning+ideas+into+real+products..." alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=600&height=60&lines=VISHNU+KUSI" alt="Vishnu Kusi" />
+</h1>
 
-<br/>
+<h3 align="center">AI / ML ENGINEER IN THE MAKING</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=vishnukusi&style=flat-square&color=22d3ee&label=SIGNAL+RECEIVED)
-![Status](https://img.shields.io/badge/CORE-OPERATIONAL-22d3ee?style=flat-square&labelColor=0A0E27)
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%2F%20ML%20%2F%20ROBOTICS-a78bfa?style=flat-square&labelColor=0A0E27)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%3E+BUILDING+INTELLIGENT+SYSTEMS_;%3E+EXPLORING+AUTONOMOUS+TECHNOLOGY_;%3E+TRAINING+FOR+THE+FUTURE+OF+AI_;%3E+TURNING+IDEAS+INTO+REAL+PRODUCTS_" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-INTELLIGENT_SYSTEMS-00F0FF?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/DOMAIN-AI_%2F_ML_%2F_ROBOTICS-B026FF?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-FF9900?style=for-the-badge&labelColor=0A0E27" />
+</p>
+
+<div align="center">
+
+`INTELLIGENT SYSTEMS // AI // AUTONOMY // BUILD`
 
 </div>
 
 <br/>
 
-## `01.` ABOUT THE BUILDER
+---
 
-<img align="right" width="260" src="https://github-readme-tech-stack.vercel.app/api/cards?title=AI+%2B+ROBOTICS&titleTextColor=22D3EE&badgeTextColor=E2E8F0&badgeBackgroundColor=0F172A&borderColor=1E1B4B&lineCount=1&line1=machine-learning%2Ccomputer-vision%2Crobotics%2Cautonomous-systems%2Cagentic-ai" alt="focus stack"/>
+## ▣ BUILDER PROFILE // ID: VK-01
 
-```yaml
-identity:
-  name: Vishnu Kusi
-  role: AI/ML Student · Intelligent Systems Builder · Robotics Explorer
-  mission: >
-    Build intelligent systems and real-world technology
-    that create meaningful impact.
-  tagline: "Building the future, one intelligent system at a time."
-
-current_domains:
-  - Artificial Intelligence
-  - Machine Learning
-  - Agentic AI
-  - AI Automation
-  - Autonomous Systems
-  - Robotics
-  - Computer Vision
-  - Intelligent Systems
+```
+├─ NAME        : Vishnu Kusi
+├─ ROLE        : AI/ML Engineer in the Making
+├─ FOCUS       : Intelligent Systems • Agentic AI • Autonomous Robotics
+├─ MISSION     : Build intelligent systems and real-world technology
+│                that create meaningful impact.
+╰─ MOTTO       : "Building the future, one intelligent system at a time."
 ```
 
-<br clear="right"/>
-
-## `02.` CURRENT SYSTEM STATUS
-
-<div align="center">
-
-| MODULE | DOMAIN | STATE | PROGRESS |
-|:--:|:--|:--:|:--|
-| `01` | **AI / ML** | `ACTIVE` | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| `02` | **Autonomous Systems** | `ACTIVE` | ▰▰▰▰▰▰▱▱▱▱ 60% |
-| `03` | **AI Automation** | `ACTIVE` | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| `04` | **Robotics / Exploration** | `IN PROGRESS` | ▰▰▰▰▰▱▱▱▱▱ 50% |
-
-</div>
+I'm an AI/ML student and intelligent-systems builder focused on turning research-grade ideas into working autonomous products — from AI agents that automate real workflows to a ground-up autonomous rover. I care about systems that sense, decide, and act, not just models that predict.
 
 <br/>
 
-## `03.` TECH ARSENAL
+## ▣ CURRENT SYSTEM STATUS
 
-<div align="center">
-
-**PROGRAMMING LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark" />
-
-<br/><br/>
-
-**AI / MACHINE LEARNING**
-
-![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=for-the-badge&logo=numpy&logoColor=22D3EE)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=22D3EE)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=A78BFA)
-
-<br/>
-
-**DEVELOPER TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux,bash&theme=dark" />
-
-<br/><br/>
-
-**AUTOMATION / INTELLIGENT SYSTEMS**
-
-![n8n](https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n&logoColor=14B8A6)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-0F172A?style=for-the-badge&logo=robotframework&logoColor=14B8A6)
-![APIs](https://img.shields.io/badge/APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=14B8A6)
-![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-0F172A?style=for-the-badge&logo=zapier&logoColor=F97316)
-
-</div>
-
-<br/>
-
-## `04.` GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishnukusi&show_icons=true&theme=dark&hide_border=true&bg_color=0A0E27&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&ring_color=22D3EE" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukusi&layout=compact&theme=dark&hide_border=true&bg_color=0A0E27&title_color=22D3EE&text_color=E2E8F0&langs_count=8" width="35%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=vishnukusi&theme=dark&hide_border=true&background=0A0E27&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE&sideLabels=E2E8F0&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=64748B" width="70%"/>
-
-</div>
-
-<br/>
-
-## `05.` FEATURED BUILDS
-
-<table width="100%">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🛰️ AI Opportunity Hunter
-`AI AGENTS` · `AUTOMATION` · `APIs`
-
-An AI-powered opportunity discovery and automation system that discovers, filters, analyzes, and organizes relevant opportunities.
-
-**Stack:** AI Agents · n8n · Automation · APIs · AI Workflows
-
-[`→ VIEW REPOSITORY`](PROJECT_LINK_1)
+**◆ AI / ML**
+```
+██████████████░░░░░░  70%
+STATUS: ACTIVE DEVELOPMENT
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-### 🏫 CampusOS
-`SOFTWARE` · `PYTHON` · `AI`
-
-A smart campus-focused software platform designed to improve and simplify student and campus workflows.
-
-**Stack:** Software Development · Python · AI · Web Technologies
-
-[`→ VIEW REPOSITORY`](PROJECT_LINK_2)
+**◆ AUTONOMOUS SYSTEMS**
+```
+███████████░░░░░░░░░  55%
+STATUS: PROJECT ARES ONLINE
+```
 
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td width="50%">
 
-<br/>
-
-### 🤖 PROJECT ARES — *Autonomous Rover Exploration System*
-**`FLAGSHIP BUILD`** · `ROBOTICS` · `AUTONOMOUS SYSTEMS` · `COMPUTER VISION`
-
+**◆ AI AUTOMATION**
 ```
-┌────────────────────────────────────────────────────────────┐
-│  ROVER UNIT: ARES-01          NAVIGATION: INTELLIGENT       │
-│  SENSORS: ACTIVE              OBSTACLE AVOIDANCE: ENABLED   │
-│  VISION MODULE: IN DEVELOPMENT                               │
-└────────────────────────────────────────────────────────────┘
+████████████████░░░░  80%
+STATUS: WORKFLOWS DEPLOYED
 ```
-
-An autonomous exploration rover project focused on intelligent navigation, sensor fusion, robotics, autonomous decision-making, obstacle avoidance, and future computer vision integration. This is one of my most important and distinctive projects — a step toward real-world autonomous robotic exploration.
-
-**Stack:** Robotics · Autonomous Systems · AI · Sensors · Computer Vision
-
-[`→ VIEW REPOSITORY`](PROJECT_LINK_3)
 
 </td>
-</tr>
-<tr>
-<td colspan="2">
+<td width="50%">
 
-<br/>
-
-### 📊 DSA Visualizer Pro
-`DSA` · `ALGORITHMS` · `VISUALIZATION`
-
-An interactive platform that visually demonstrates data structures and algorithms step by step, making complex concepts easier to understand.
-
-**Stack:** DSA · Algorithms · Visualization · Web Development
-
-[`→ VIEW REPOSITORY`](PROJECT_LINK_4)
+**◆ ROBOTICS / EXPLORATION**
+```
+█████████░░░░░░░░░░░  45%
+STATUS: VISION MODULE PENDING
+```
 
 </td>
 </tr>
@@ -192,90 +101,248 @@ An interactive platform that visually demonstrates data structures and algorithm
 
 <br/>
 
-## `06.` EXPLORATION LOG
+## ▣ CORE TECHNOLOGY MODULES
+
+**┌──────────── LANGUAGE CORE ────────────┐**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark" />
+</p>
+
+**┌──────────── INTELLIGENCE CORE ────────┐**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-00F0FF?style=flat-square&logo=numpy&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/Pandas-B026FF?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-FF9900?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
+
+**┌──────────── AUTOMATION CORE ──────────┐**
+<p align="left">
+<img src="https://img.shields.io/badge/n8n-00F0FF?style=flat-square&logo=n8n&logoColor=0A0E27" />
+<img src="https://img.shields.io/badge/AI_Agents-B026FF?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs-FF9900?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Workflows-00F0FF?style=flat-square&logoColor=0A0E27" />
+</p>
+
+**┌──────────── DEV ENVIRONMENT ──────────┐**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
+<img src="https://img.shields.io/badge/Jupyter-B026FF?style=flat-square&logo=jupyter&logoColor=white" />
+</p>
+
+<br/>
+
+## ▣ LIVE SYSTEM TELEMETRY
 
 <div align="center">
 
-![Agentic AI](https://img.shields.io/badge/exploring-Agentic%20AI-22D3EE?style=flat-square&labelColor=0A0E27)
-![Computer Vision](https://img.shields.io/badge/exploring-Computer%20Vision-A78BFA?style=flat-square&labelColor=0A0E27)
-![Autonomous Robotics](https://img.shields.io/badge/exploring-Autonomous%20Robotics-14B8A6?style=flat-square&labelColor=0A0E27)
-![AI Automation](https://img.shields.io/badge/exploring-AI%20Automation-F97316?style=flat-square&labelColor=0A0E27)
-![Intelligent Systems](https://img.shields.io/badge/exploring-Intelligent%20Systems-22D3EE?style=flat-square&labelColor=0A0E27)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnukusi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0E27&title_color=00F0FF&icon_color=B026FF&text_color=C3C9E8&ring=00F0FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnukusi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0E27&title_color=00F0FF&text_color=C3C9E8&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vishnukusi&theme=dark&hide_border=true&background=0A0E27&stroke=00F0FF&ring=B026FF&fire=FF9900&currStreakLabel=00F0FF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukusi&theme=react-dark&hide_border=true&bg_color=0A0E27&color=00F0FF&line=B026FF&point=FF9900" width="100%" />
+
+</div>
+
+> `COMMITS` • `REPOSITORIES` • `LANGUAGES` • `CODING STREAK` • `CONTRIBUTION ACTIVITY` — all telemetry above updates live.
+
+<br/>
+
+## ▣ PROJECT ARCHIVE // ACTIVE BUILDS
+
+<table width="100%">
+<tr><td>
+
+```
+┌────────────────────────────────────────────────────┐
+│  MODULE 01                         STATUS: ACTIVE  │
+│                                                    │
+│  AI OPPORTUNITY HUNTER                             │
+│  Intelligent opportunity discovery & automation    │
+│  system — discovers, filters, analyzes, and        │
+│  organizes relevant opportunities.                 │
+│                                                    │
+│  CORE: AI AGENTS • N8N • AUTOMATION • APIs         │
+└────────────────────────────────────────────────────┘
+```
+**[ ACCESS PROJECT → ](PROJECT_LINK_1)**
+
+</td></tr>
+<tr><td>
+
+```
+┌────────────────────────────────────────────────────┐
+│  MODULE 02                         STATUS: ACTIVE  │
+│                                                    │
+│  CAMPUSOS                                          │
+│  Smart campus-focused software platform built to   │
+│  simplify and improve student & campus workflows.  │
+│                                                    │
+│  CORE: PYTHON • AI • WEB TECHNOLOGIES              │
+└────────────────────────────────────────────────────┘
+```
+**[ ACCESS PROJECT → ](PROJECT_LINK_2)**
+
+</td></tr>
+<tr><td>
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  ARES-01 // AUTONOMOUS EXPLORATION UNIT                    ║
+║                                                             ║
+║          SENSE → ANALYZE → DECIDE → NAVIGATE               ║
+║                                                             ║
+║  SYSTEM  : Autonomous Rover Exploration System (ARES)      ║
+║  STATUS  : DEVELOPMENT                                     ║
+║                                                             ║
+║  MODULES : [SENSORS] [AI] [NAVIGATION] [ROBOTICS] [VISION] ║
+║                                                             ║
+║  Intelligent navigation, sensor fusion, autonomous         ║
+║  decision-making, obstacle avoidance — with computer        ║
+║  vision integration planned as the next core module.       ║
+╚═══════════════════════════════════════════════════════════╝
+```
+**[ ⌁ ACCESS MISSION FILE → ](PROJECT_LINK_3)**
+
+</td></tr>
+<tr><td>
+
+```
+┌────────────────────────────────────────────────────┐
+│  MODULE 04                         STATUS: ACTIVE  │
+│                                                    │
+│  DSA VISUALIZER PRO                                │
+│  Interactive platform that visually demonstrates   │
+│  data structures & algorithms step by step.        │
+│                                                    │
+│  CORE: DSA • ALGORITHMS • VISUALIZATION • WEB      │
+└────────────────────────────────────────────────────┘
+```
+**[ ACCESS PROJECT → ](PROJECT_LINK_4)**
+
+</td></tr>
+</table>
+
+<br/>
+
+## ▣ EXPLORATION LOG // ACTIVE RESEARCH
+
+```
+├─ ⌁ Agentic AI
+├─ ⌁ Computer Vision
+├─ ⌁ Autonomous Robotics
+├─ ⌁ AI Automation
+╰─ ⌁ Intelligent Systems
+```
+
+<br/>
+
+## ▣ CONTRIBUTION DATA STREAM
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/vishnukusi/vishnukusi/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+<br/>
+
+## ▣ MISSION CONTROL // NEXT OBJECTIVES
+
+```
+╭──────────────── MISSION CONTROL ────────────────╮
+│                                                  │
+│  OBJECTIVE 01  → BUILD INTELLIGENT AI SYSTEMS    │
+│  OBJECTIVE 02  → DEVELOP PROJECT ARES            │
+│  OBJECTIVE 03  → MASTER AGENTIC AI               │
+│  OBJECTIVE 04  → EXPLORE COMPUTER VISION         │
+│  OBJECTIVE 05  → BUILD AUTONOMOUS TECHNOLOGY     │
+│  OBJECTIVE 06  → CREATE PRODUCTS WITH REAL       │
+│                  WORLD IMPACT                    │
+│                                                  │
+│  MISSION STATUS : IN PROGRESS                    │
+│  SYSTEM ENERGY  : ██████████ 100%                │
+│                                                  │
+╰──────────────────────────────────────────────────╯
+```
+
+<br/>
+
+## ▣ BUILDER MINDSET
+
+<div align="center">
+
+**IDEA** → **RESEARCH** → **BUILD** → **FAIL** → **LEARN** → **IMPROVE** → **IMPACT**
 
 </div>
 
 <br/>
 
-## `07.` CONTRIBUTION ACTIVITY
+## ▣ COMMUNICATION CHANNELS
 
-<div align="center">
+<p align="center">
+<a href="https://github.com/vishnukusi"><img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00F0FF" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=B026FF" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0E27?style=for-the-badge&logo=gmail&logoColor=FF9900" /></a>
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnukusi&theme=react-dark&bg_color=0A0E27&color=22D3EE&line=A78BFA&point=E2E8F0&hide_border=true&area=true" width="95%"/>
-
-</div>
-
-<br/>
-
-## `08.` CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vishnukusi/vishnukusi/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-
-</div>
-
-<br/>
-
-## `09.` MISSION CONTROL
-
-```
-┌──────────────────────────────────────────────────────────┐
-│  CURRENT MISSION                                          │
-├──────────────────────────────────────────────────────────┤
-│  → Build intelligent AI systems                           │
-│  → Develop Project ARES                                   │
-│  → Explore Agentic AI                                     │
-│  → Learn Computer Vision                                  │
-│  → Build autonomous technology                            │
-│  → Create products with real-world impact                 │
-├──────────────────────────────────────────────────────────┤
-│  STATUS: IN PROGRESS                                       │
-└──────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-## `10.` BUILDER MINDSET
+---
 
 <div align="center">
 
 ```
-   IDEA  →  RESEARCH  →  BUILD  →  FAIL  →  LEARN  →  IMPROVE  →  IMPACT
+╭──────────────────────────────────────────────────────────╮
+│  VISHNU.OS  ⌁  INTELLIGENCE CORE STABLE  ⌁  ◉ TRANSMITTING │
+╰──────────────────────────────────────────────────────────╯
 ```
 
-</div>
-
-<br/>
-
-## `11.` CONNECT
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/vishnukusi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=F97316)](mailto:YOUR_EMAIL)
+*end of transmission — thanks for visiting VISHNU.OS*
 
 </div>
-
-<br/>
-
-<div align="center">
-
-```
-◈ END TRANSMISSION — SYSTEM ARCHITECT: VISHNU KUSI ◈
-   INTELLIGENCE COMPILED. FUTURE IN PROGRESS.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E1B4B,50:0F172A,100:0A0E27&height=3&section=footer" width="100%"/>
+```yaml
+name: Generate Snake
 
-</div>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: vishnukusi
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+**Manual replacements needed:**
+- `YOUR_LINKEDIN_URL` — your LinkedIn profile URL
+- `YOUR_EMAIL` — your email address
+- `PROJECT_LINK_1` — AI Opportunity Hunter repo URL
+- `PROJECT_LINK_2` — CampusOS repo URL
+- `PROJECT_LINK_3` — Project ARES repo URL
+- `PROJECT_LINK_4` — DSA Visualizer Pro repo URL
