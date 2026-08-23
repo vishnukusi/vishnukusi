@@ -211,6 +211,7 @@ LANGUAGES ◆ LIBRARIES ◆ WEB DEVELOPMENT ◆ TOOLS
 │  SYSTEM STATE: READY ◉                      │
 └─────────────────────────────────────────────┘
 └──────────────────────────────────────────────┘
+```
 
 ## ▣ LIVE SYSTEM TELEMETRY
 
