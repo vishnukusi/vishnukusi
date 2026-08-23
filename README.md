@@ -12,9 +12,9 @@
 
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=B026FF&center=true&vCenter=true&width=600&height=60&lines=VISHNU+KUSI" alt="Vishnu Kusi" />
-</h1>
+<p align="center">
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Vishnu Kusi - AI/ML Engineer"/>
+</p>
 
 <h3 align="center">AI / ML ENGINEER IN THE MAKING</h3>
 
