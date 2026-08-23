@@ -102,34 +102,67 @@ STATUS: VISION MODULE PENDING
 
 ## ▣ CORE TECHNOLOGY MODULES
 
-**┌──────────── LANGUAGE CORE ────────────┐**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js&theme=dark" />
+<br/>
+
+### ╔════════════ LANGUAGE CORE ════════════╗
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark" />
 </p>
 
-**┌──────────── INTELLIGENCE CORE ────────┐**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
-<img src="https://img.shields.io/badge/NumPy-00F0FF?style=flat-square&logo=numpy&logoColor=0A0E27" />
-<img src="https://img.shields.io/badge/Pandas-B026FF?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-FF9900?style=flat-square&logo=scikitlearn&logoColor=white" />
-</p>
-
-**┌──────────── AUTOMATION CORE ──────────┐**
-<p align="left">
-<img src="https://img.shields.io/badge/n8n-00F0FF?style=flat-square&logo=n8n&logoColor=0A0E27" />
-<img src="https://img.shields.io/badge/AI_Agents-B026FF?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/APIs-FF9900?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Workflows-00F0FF?style=flat-square&logoColor=0A0E27" />
-</p>
-
-**┌──────────── DEV ENVIRONMENT ──────────┐**
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" />
-<img src="https://img.shields.io/badge/Jupyter-B026FF?style=flat-square&logo=jupyter&logoColor=white" />
+<p align="center">
+  <sub>C &nbsp;&nbsp;&nbsp;&nbsp; C++ &nbsp;&nbsp;&nbsp;&nbsp; Python &nbsp;&nbsp;&nbsp;&nbsp; JavaScript</sub>
 </p>
 
 <br/>
+
+### ╔════════════ LIBRARY CORE ════════════╗
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matplotlib&theme=dark" />
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" alt="NumPy"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="48" alt="Pandas"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="Scikit-learn"/>
+</p>
+
+<p align="center">
+  <sub>Matplotlib &nbsp;&nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp; Scikit-learn</sub>
+</p>
+
+<br/>
+
+### ╔════════════ WEB DEVELOPMENT CORE ════════════╗
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <sub>HTML5 &nbsp;&nbsp;&nbsp;&nbsp; CSS3</sub>
+</p>
+
+<br/>
+
+### ╔════════════ TOOLKIT CORE ════════════╗
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logoColor=white" height="48" alt="Antigravity"/>
+</p>
+
+<p align="center">
+  <sub>Git &nbsp;&nbsp;&nbsp;&nbsp; GitHub &nbsp;&nbsp;&nbsp;&nbsp; VS Code &nbsp;&nbsp;&nbsp;&nbsp; Antigravity</sub>
+</p>
+
+<br/>
+
+<p align="center">
+
+```text
+┌──────────────────────────────────────────────┐
+│  SYSTEM: TECHNOLOGY MODULES LOADED           │
+│  STATUS: READY ◉                             │
+└──────────────────────────────────────────────┘
 
 ## ▣ LIVE SYSTEM TELEMETRY
 
