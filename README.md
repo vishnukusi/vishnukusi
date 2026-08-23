@@ -101,166 +101,101 @@ STATUS: VISION MODULE PENDING
 <br/>
 
 
-
-<!-- ================= CORE TECHNOLOGY MODULES ================= -->
-
-<h2 align="center">▣ CORE TECHNOLOGY MODULES</h2>
+## ▣ CORE TECHNOLOGY MODULES
 
 <br>
 
-<!-- LANGUAGE CORE -->
+<div align="center">
 
-<h3 align="center">━━━━━━ ◈ LANGUAGE CORE ◈ ━━━━━━</h3>
+### ━━━━━━━━━━━━ ◈ LANGUAGE CORE ◈ ━━━━━━━━━━━━
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60" alt="C"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60" alt="C++"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="60" alt="JavaScript"/>
-</p>
+<br>
 
-<p align="center">
-  <b>C</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>C++</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Python</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>JavaScript</b>
-</p>
+<a href="#">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="45"/>
+</a>
 
-<br><br>
+<br><br><br>
 
-<!-- LIBRARY CORE -->
+### ━━━━━━━━━━━━ ◈ LIBRARY CORE ◈ ━━━━━━━━━━━━
 
-<h3 align="center">━━━━━━ ◈ LIBRARY CORE ◈ ━━━━━━</h3>
+<br>
 
-<p align="center">
+<a href="#">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="45"/>
+</a>
 
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
-    height="60"
-    alt="Matplotlib"
-  />
+<br><br><br>
 
-  &nbsp;&nbsp;
+### ━━━━━━━━━━━━ ◈ WEB DEVELOPMENT CORE ◈ ━━━━━━━━━━━━
 
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-    height="60"
-    alt="NumPy"
-  />
+<br>
 
-  &nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="45"/>
+</a>
 
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-    height="60"
-    alt="Pandas"
-  />
+<br><br><br>
 
-  &nbsp;&nbsp;
+### ━━━━━━━━━━━━ ◈ TOOLKIT CORE ◈ ━━━━━━━━━━━━
 
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"
-    height="60"
-    alt="Scikit-learn"
-  />
+<br>
 
-</p>
-
-<p align="center">
-  <b>Matplotlib</b>
-  &nbsp;&nbsp;&nbsp;
-  <b>NumPy</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Pandas</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Scikit-learn</b>
-</p>
-
-<br><br>
-
-<!-- WEB DEVELOPMENT CORE -->
-
-<h3 align="center">━━━━━━ ◈ WEB DEVELOPMENT CORE ◈ ━━━━━━</h3>
-
-<p align="center">
-
-  <img
-    src="https://skillicons.dev/icons?i=html"
-    height="60"
-    alt="HTML"
-  />
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img
-    src="https://skillicons.dev/icons?i=css"
-    height="60"
-    alt="CSS"
-  />
-
-</p>
-
-<p align="center">
-  <b>HTML5</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>CSS3</b>
-</p>
+<a href="#">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/vishnukusi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/Antigravity-AI%20Development-7C3AED?style=for-the-badge&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="45"/>
+</a>
 
 <br><br>
 
-<!-- TOOLKIT CORE -->
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">━━━━━━ ◈ TOOLKIT CORE ◈ ━━━━━━</h3>
+**◉ SYSTEM STATUS: ALL TECHNOLOGY MODULES LOADED**
 
-<p align="center">
+`LANGUAGES` ◆ `LIBRARIES` ◆ `WEB DEVELOPMENT` ◆ `TOOLS`
 
-  <img
-    src="https://skillicons.dev/icons?i=git"
-    height="60"
-    alt="Git"
-  />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  &nbsp;&nbsp;
-
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    height="60"
-    alt="GitHub"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://skillicons.dev/icons?i=vscode"
-    height="60"
-    alt="VS Code"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    src="https://img.shields.io/badge/Antigravity-8B5CF6?style=for-the-badge&logoColor=white"
-    height="45"
-    alt="Antigravity"
-  />
-
-</p>
-
-<p align="center">
-  <b>Git</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <b>GitHub</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>VS Code</b>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <b>Antigravity</b>
-</p>
+</div>
 
 <br>
 <br>
