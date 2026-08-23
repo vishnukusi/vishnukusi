@@ -49,10 +49,10 @@ I'm an AI/ML student and intelligent-systems builder focused on turning research
 <td width="50%">
 
 **◆ AI / ML**
-```
+
 ██████████████░░░░░░  70%
 STATUS: ACTIVE DEVELOPMENT
-```
+
 
 </td>
 <td width="50%">
