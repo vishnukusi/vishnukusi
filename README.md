@@ -27,7 +27,7 @@
 
 ---
 
-## ▣ BUILDER PROFILE // ID: VK-01
+## ▣ BUILDER PROFILE 
 
 ```
 ├─ NAME        : Vishnu Kusi
