@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F0FF&center=false&vCenter=true&multiline=true&repeat=false&width=700&height=120&lines=INITIALIZING+INTELLIGENT+SYSTEMS...+%5BOK%5D;LOADING+AI+MODULES...+%5BOK%5D;CONNECTING+AUTONOMOUS+SYSTEMS...+%5BOK%5D;ANALYZING+BUILDER+PROFILE...+%5BOK%5D;ACCESS+GRANTED+%E2%97%89+LIVE" alt="Boot Sequence" />
@@ -203,7 +202,7 @@ STATUS: VISION MODULE PENDING
 ║  MODULES : [SENSORS] [AI] [NAVIGATION] [ROBOTICS] [VISION] ║
 ║                                                             ║
 ║  Intelligent navigation, sensor fusion, autonomous         ║
-║  decision-making, obstacle avoidance — with computer        ║
+║  decision-making, obstacle avoidance — with computer       ║
 ║  vision integration planned as the next core module.       ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
@@ -302,47 +301,3 @@ STATUS: VISION MODULE PENDING
 *end of transmission — thanks for visiting VISHNU.OS*
 
 </div>
-```
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake game from GitHub contribution grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: vishnukusi
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-**Manual replacements needed:**
-- `YOUR_LINKEDIN_URL` — your LinkedIn profile URL
-- `YOUR_EMAIL` — your email address
-- `PROJECT_LINK_1` — AI Opportunity Hunter repo URL
-- `PROJECT_LINK_2` — CampusOS repo URL
-- `PROJECT_LINK_3` — Project ARES repo URL
-- `PROJECT_LINK_4` — DSA Visualizer Pro repo URL
